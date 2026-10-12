@@ -1,0 +1,443 @@
+[
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "path": "README.md",
+    "url": "https://github.com/NousResearch/hermes-agent/blob/54b07ec7f16ec077b86847095f84adf1924eca92/README.md",
+    "bytes": 16924,
+    "sha256": "c8c3009b1cf6e8d6e48e96a9b4c549d9ab0c86fdaffd91b19f3e9d9b37d93d9d",
+    "level": "source_claim"
+  },
+  {
+    "repo": "obra/superpowers",
+    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "path": "README.md",
+    "url": "https://github.com/obra/superpowers/blob/bb92a77741419a4ab5f06e711a283343f1ada0c3/README.md",
+    "bytes": 14589,
+    "sha256": "9b7be460027bf53c29f628eee72dceeebb83e52dd5e94a1b6f9828a64c579198",
+    "level": "source_claim"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "path": "README.md",
+    "url": "https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/README.md",
+    "bytes": 16461,
+    "sha256": "345041d56cf1411b6b3ca1cc54014d26c563890f817f4cb9e2cb193dcd771a3e",
+    "level": "source_claim"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "sha": "b92f181b3b748d1abbc2afd94af6aa7d8c8fca29",
+    "path": "README.md",
+    "url": "https://github.com/affaan-m/ECC/blob/b92f181b3b748d1abbc2afd94af6aa7d8c8fca29/README.md",
+    "bytes": 115595,
+    "sha256": "891c1db3e717d893e625c9a87194a2dda07185911019a6e0e8b4c4bfd5d3b92c",
+    "level": "source_claim"
+  },
+  {
+    "repo": "anthropics/skills",
+    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "path": "README.md",
+    "url": "https://github.com/anthropics/skills/blob/dbd4588f9e1033efb41dad4bef2f7947c8993d44/README.md",
+    "bytes": 5552,
+    "sha256": "2fb9c4cc026366ea6e21c60cb23c908a4d27c62071819cc06beffaac102d0694",
+    "level": "source_claim"
+  },
+  {
+    "repo": "agentskills/agentskills",
+    "sha": "69ef37e9424c0a7ea9dd2293b559e43ec8176379",
+    "path": "README.md",
+    "url": "https://github.com/agentskills/agentskills/blob/69ef37e9424c0a7ea9dd2293b559e43ec8176379/README.md",
+    "bytes": 3361,
+    "sha256": "7ff4a9a612ab21189aa793fd43223bd854280a122ac12ce29f5bea84d5930a1d",
+    "level": "source_claim"
+  },
+  {
+    "repo": "langchain-ai/langgraph",
+    "sha": "10f1fabb3b2f2d550b8133fba1217391c27694c4",
+    "path": "README.md",
+    "url": "https://github.com/langchain-ai/langgraph/blob/10f1fabb3b2f2d550b8133fba1217391c27694c4/README.md",
+    "bytes": 6395,
+    "sha256": "3a13e257af1216962d53d72414a7f44ac1fc5cea34d994bdff60ea2a3b045933",
+    "level": "source_claim"
+  },
+  {
+    "repo": "mem0ai/mem0",
+    "sha": "d26ba5e4518cef7fff3c66d4f715b21adf9feabe",
+    "path": "README.md",
+    "url": "https://github.com/mem0ai/mem0/blob/d26ba5e4518cef7fff3c66d4f715b21adf9feabe/README.md",
+    "bytes": 11914,
+    "sha256": "7509347d34a767a2ef37ceb6cf6c714de9e8d84fe66ad5eea92bbae824a8fbeb",
+    "level": "source_claim"
+  },
+  {
+    "repo": "letta-ai/letta",
+    "sha": "5bcdd177d70fa2b31a754cfcd801e77b2e1ab16a",
+    "path": "README.md",
+    "url": "https://github.com/letta-ai/letta/blob/5bcdd177d70fa2b31a754cfcd801e77b2e1ab16a/README.md",
+    "bytes": 1574,
+    "sha256": "1d624e8fd383c1198c8d42da87b055d591a5760e19607692eb46bbbfe2a58f03",
+    "level": "source_claim"
+  },
+  {
+    "repo": "langfuse/langfuse",
+    "sha": "5d866bbe7a65522d209124348e53f9efd73dcc7c",
+    "path": "README.md",
+    "url": "https://github.com/langfuse/langfuse/blob/5d866bbe7a65522d209124348e53f9efd73dcc7c/README.md",
+    "bytes": 53476,
+    "sha256": "d5a07630afeeaa4c11eda7c0d133941950805cb29ce84b13fa272eeb9a3794f5",
+    "level": "source_claim"
+  },
+  {
+    "repo": "promptfoo/promptfoo",
+    "sha": "129cdb7ca768de316f0cb86cebc60b0db457b132",
+    "path": "README.md",
+    "url": "https://github.com/promptfoo/promptfoo/blob/129cdb7ca768de316f0cb86cebc60b0db457b132/README.md",
+    "bytes": 4596,
+    "sha256": "9419faaa9d56675b923462d5052a176b3da58f60bf66c84af23159bf3d63c270",
+    "level": "source_claim"
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "sha": "f516668f96f9891510640b62a0216adb229bbcb9",
+    "path": "README.md",
+    "url": "https://github.com/BerriAI/litellm/blob/f516668f96f9891510640b62a0216adb229bbcb9/README.md",
+    "bytes": 38436,
+    "sha256": "847beb327fd156f9e5b2f0759eb375d666f03a46215f1b9a707b7cbc276649dd",
+    "level": "source_claim"
+  },
+  {
+    "repo": "modelcontextprotocol/python-sdk",
+    "sha": "c9356a2a8fb805ac2202e44c05371cf005edc923",
+    "path": "README.md",
+    "url": "https://github.com/modelcontextprotocol/python-sdk/blob/c9356a2a8fb805ac2202e44c05371cf005edc923/README.md",
+    "bytes": 4561,
+    "sha256": "51552fa66eee9852eb40f5bad68319df90800e88c399c4f404562c570216c05b",
+    "level": "source_claim"
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "sha": "c75e8476e26d18b7617643bc2ae082fae8eae431",
+    "path": "README.md",
+    "url": "https://github.com/browser-use/browser-use/blob/c75e8476e26d18b7617643bc2ae082fae8eae431/README.md",
+    "bytes": 16597,
+    "sha256": "251ae2f71548b320d57b58f6690ec47afa001f1ae7832fe8e8c16584e078ca6d",
+    "level": "source_claim"
+  },
+  {
+    "repo": "All-Hands-AI/OpenHands",
+    "sha": "02e02ae0c92ebb033afcf2fb399bd3683df82ca8",
+    "path": "README.md",
+    "url": "https://github.com/OpenHands/OpenHands/blob/02e02ae0c92ebb033afcf2fb399bd3683df82ca8/README.md",
+    "bytes": 12877,
+    "sha256": "a629fe9590e100027416693df9342639500549c44abb2fbae76db5a2a952bfa2",
+    "level": "source_claim"
+  },
+  {
+    "repo": "openai/openai-agents-python",
+    "sha": "125efa029b4bfd84238bd2c4fd69c3406f802663",
+    "path": "README.md",
+    "url": "https://github.com/openai/openai-agents-python/blob/125efa029b4bfd84238bd2c4fd69c3406f802663/README.md",
+    "bytes": 9009,
+    "sha256": "cf68cb43182d6ea4f79a32421f6723e8ee2cc0f68f97524da7f300e9fc77940b",
+    "level": "source_claim"
+  },
+  {
+    "repo": "NousResearch/hermes-agent-self-evolution",
+    "sha": "0a929e3aa20e15cf04dc7c28492a7d41a5139125",
+    "path": "README.md",
+    "url": "https://github.com/NousResearch/hermes-agent-self-evolution/blob/0a929e3aa20e15cf04dc7c28492a7d41a5139125/README.md",
+    "bytes": 3561,
+    "sha256": "ebecc0a1f483e655041b9aa531ef7535ee0165f7058b65420896d6e89c7acc92",
+    "level": "source_claim"
+  },
+  {
+    "repo": "rlaope/oh-my-hermes",
+    "sha": "65c31d6a240a443750e35cafabf6f55aedda5aa2",
+    "path": "README.md",
+    "url": "https://github.com/rlaope/oh-my-hermes/blob/65c31d6a240a443750e35cafabf6f55aedda5aa2/README.md",
+    "bytes": 36012,
+    "sha256": "4086c0aadf51d987bb787946dda4ac24e0786b20d84c9a78ea3d921426b1bf16",
+    "level": "source_claim"
+  },
+  {
+    "repo": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "sha": "9ff0c99108b36d3b886defd825d8ac1f47dba374",
+    "path": "README.md",
+    "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/blob/9ff0c99108b36d3b886defd825d8ac1f47dba374/README.md",
+    "bytes": 24668,
+    "sha256": "bd550f19c97d539f6de2af09583edcf56a91b91a6893292d5ef55212beac5a4f",
+    "level": "source_claim"
+  },
+  {
+    "repo": "plastic-labs/honcho",
+    "sha": "3922af856d78ec41133916deec4d821fa9c5a92e",
+    "path": "README.md",
+    "url": "https://github.com/plastic-labs/honcho/blob/3922af856d78ec41133916deec4d821fa9c5a92e/README.md",
+    "bytes": 34738,
+    "sha256": "9843107513bc5b47c6b100b312d4cf7ba4543a8d4ac108ce306f9b7c73fdd4b1",
+    "level": "source_claim"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "path": "website/docs/user-guide/features/memory.md",
+    "bytes": 31154,
+    "url": "https://github.com/NousResearch/hermes-agent/blob/54b07ec7f16ec077b86847095f84adf1924eca92/website/docs/user-guide/features/memory.md",
+    "sha256": "021de764dc2295272df8746ba78de79b6add577f9d8b65b57fcf8597631f3c89",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "path": "website/docs/user-guide/features/skills.md",
+    "bytes": 58162,
+    "url": "https://github.com/NousResearch/hermes-agent/blob/54b07ec7f16ec077b86847095f84adf1924eca92/website/docs/user-guide/features/skills.md",
+    "sha256": "8c7eaab31d47ea79a8f9baaaade7b5330857088f51cd41c6bd617c4ce86ce840",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "path": "website/docs/user-guide/features/mcp.md",
+    "bytes": 52136,
+    "url": "https://github.com/NousResearch/hermes-agent/blob/54b07ec7f16ec077b86847095f84adf1924eca92/website/docs/user-guide/features/mcp.md",
+    "sha256": "cf04ba62c050cb538e81b06b18fbcf60e8db9785b7480cd622da92972150e5e3",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "path": "website/docs/user-guide/features/context-files.md",
+    "bytes": 12549,
+    "url": "https://github.com/NousResearch/hermes-agent/blob/54b07ec7f16ec077b86847095f84adf1924eca92/website/docs/user-guide/features/context-files.md",
+    "sha256": "0a35eac7c2ea5d0451eeb174348ded0abb9f6af5f3657d7a03d843b3ca4f7009",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "path": "website/docs/user-guide/configuration.md",
+    "bytes": 244835,
+    "url": "https://github.com/NousResearch/hermes-agent/blob/54b07ec7f16ec077b86847095f84adf1924eca92/website/docs/user-guide/configuration.md",
+    "sha256": "ea126bf6bb33b7b960a9321302ce4c90045dbf48b96fb0c6a6d3600a6be68d1a",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "path": "website/docs/user-guide/security.md",
+    "bytes": 62501,
+    "url": "https://github.com/NousResearch/hermes-agent/blob/54b07ec7f16ec077b86847095f84adf1924eca92/website/docs/user-guide/security.md",
+    "sha256": "f52b8afea7a53aba83357a2203780f4d5961f4184e382533a76988d7273779f4",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "path": "website/docs/developer-guide/architecture.md",
+    "bytes": 16830,
+    "url": "https://github.com/NousResearch/hermes-agent/blob/54b07ec7f16ec077b86847095f84adf1924eca92/website/docs/developer-guide/architecture.md",
+    "sha256": "008df09369d518037f2599d36cae8b39bd36a4f3036cb37cade6818d0bc9ad8e",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "path": "agent/memory_provider.py",
+    "bytes": 10503,
+    "url": "https://github.com/NousResearch/hermes-agent/blob/54b07ec7f16ec077b86847095f84adf1924eca92/agent/memory_provider.py",
+    "sha256": "2d62ab1c2b0de88dd7b4dd4ef87068adc8717800833930782785974edf3ff616",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "path": "agent/memory_manager.py",
+    "bytes": 50194,
+    "url": "https://github.com/NousResearch/hermes-agent/blob/54b07ec7f16ec077b86847095f84adf1924eca92/agent/memory_manager.py",
+    "sha256": "1df39a53f534a21695ae22fc767245d354b0266da99c28d94fd2b65a5d826ad7",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "path": "agent/context_engine.py",
+    "bytes": 13154,
+    "url": "https://github.com/NousResearch/hermes-agent/blob/54b07ec7f16ec077b86847095f84adf1924eca92/agent/context_engine.py",
+    "sha256": "516a4961c59af4c1048dc523b83f135b1fd0089423775fbe3fc04ffdcdb45cbb",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "path": "agent/session_persistence.py",
+    "bytes": 31178,
+    "url": "https://github.com/NousResearch/hermes-agent/blob/54b07ec7f16ec077b86847095f84adf1924eca92/agent/session_persistence.py",
+    "sha256": "3b04c887ddc27f2c8c8168aa724986b15520375cacb9b714f18d9f8603247c46",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "path": "agent/retry_utils.py",
+    "bytes": 9128,
+    "url": "https://github.com/NousResearch/hermes-agent/blob/54b07ec7f16ec077b86847095f84adf1924eca92/agent/retry_utils.py",
+    "sha256": "4c643880c012dd536dca08041f1bae93b6a58477186b5cf0b4e27ec3c640014c",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "path": "cli-config.yaml.example",
+    "bytes": 124758,
+    "url": "https://github.com/NousResearch/hermes-agent/blob/54b07ec7f16ec077b86847095f84adf1924eca92/cli-config.yaml.example",
+    "sha256": "ca0a465bb0b4787bfa6f3e8ba0f7e1e667557334868f6c58ad2dfacd75ff6600",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "obra/superpowers",
+    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "path": "skills/systematic-debugging/SKILL.md",
+    "bytes": 9530,
+    "url": "https://github.com/obra/superpowers/blob/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/systematic-debugging/SKILL.md",
+    "sha256": "51c6435d98c83c42c96ba7c35725a0b2c376cd487fb1a4e6bd0ddbe7e33ef202",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "obra/superpowers",
+    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "path": "skills/verification-before-completion/SKILL.md",
+    "bytes": 3646,
+    "url": "https://github.com/obra/superpowers/blob/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/verification-before-completion/SKILL.md",
+    "sha256": "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "obra/superpowers",
+    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "path": "skills/brainstorming/SKILL.md",
+    "bytes": 10073,
+    "url": "https://github.com/obra/superpowers/blob/bb92a77741419a4ab5f06e711a283343f1ada0c3/skills/brainstorming/SKILL.md",
+    "sha256": "6ee10d1481b8a2580d5336ff66c5c08acc9d4b251b13bbc3bfd31be99c261d43",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "path": "skills/productivity/handoff/SKILL.md",
+    "bytes": 940,
+    "url": "https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/productivity/handoff/SKILL.md",
+    "sha256": "4cbb043950dad2ffd3662ff1a5a0b51ae676004b5cae10e3787e8ee7a4ee69d3",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "path": "skills/engineering/to-tickets/SKILL.md",
+    "bytes": 5812,
+    "url": "https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/engineering/to-tickets/SKILL.md",
+    "sha256": "56ec23c5b2782785d4e65bff9e315b6d3aeb4ef977c174a219e99489fada1995",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "path": "skills/engineering/triage/SKILL.md",
+    "bytes": 6558,
+    "url": "https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/engineering/triage/SKILL.md",
+    "sha256": "917b0baf74be583e74f110857ed45df2766617f75c00baf61fd136d7af515edf",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "sha": "b92f181b3b748d1abbc2afd94af6aa7d8c8fca29",
+    "path": "skills/continuous-learning-v2/SKILL.md",
+    "bytes": 14149,
+    "url": "https://github.com/affaan-m/ECC/blob/b92f181b3b748d1abbc2afd94af6aa7d8c8fca29/skills/continuous-learning-v2/SKILL.md",
+    "sha256": "ddad12451a0d582c6ef1b197b7be193bef613cbc74eba4117fcb74fc7a4ecd00",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "sha": "b92f181b3b748d1abbc2afd94af6aa7d8c8fca29",
+    "path": "skills/strategic-compact/SKILL.md",
+    "bytes": 8608,
+    "url": "https://github.com/affaan-m/ECC/blob/b92f181b3b748d1abbc2afd94af6aa7d8c8fca29/skills/strategic-compact/SKILL.md",
+    "sha256": "44a71c6dcc3fdde8061b8a78296c5d37233e4accc8cf3c794e29ac5b9f2eee28",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "sha": "b92f181b3b748d1abbc2afd94af6aa7d8c8fca29",
+    "path": "skills/eval-harness/SKILL.md",
+    "bytes": 8738,
+    "url": "https://github.com/affaan-m/ECC/blob/b92f181b3b748d1abbc2afd94af6aa7d8c8fca29/skills/eval-harness/SKILL.md",
+    "sha256": "3a5339a5a80099a5c9d55da9b6c8e05a690f5befc6f78d779c75dd79d818ca07",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "sha": "b92f181b3b748d1abbc2afd94af6aa7d8c8fca29",
+    "path": "skills/skill-host-compat/SKILL.md",
+    "bytes": 3788,
+    "url": "https://github.com/affaan-m/ECC/blob/b92f181b3b748d1abbc2afd94af6aa7d8c8fca29/skills/skill-host-compat/SKILL.md",
+    "sha256": "246242187c2da04369c23d782ba0970bcb9b9fb74acb421161649e4c572d4b54",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "agentskills/agentskills",
+    "sha": "69ef37e9424c0a7ea9dd2293b559e43ec8176379",
+    "path": "docs/specification.mdx",
+    "bytes": 7166,
+    "url": "https://github.com/agentskills/agentskills/blob/69ef37e9424c0a7ea9dd2293b559e43ec8176379/docs/specification.mdx",
+    "sha256": "b9079c0c10b7930e8c6a20ff2bc10cda2a3343c55185120e3f1116a1a529b220",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "path": "website/docs/developer-guide/memory-provider-plugin.md",
+    "bytes": 26045,
+    "url": "https://github.com/NousResearch/hermes-agent/blob/54b07ec7f16ec077b86847095f84adf1924eca92/website/docs/developer-guide/memory-provider-plugin.md",
+    "sha256": "bc85ba9f8f29e7cd9a106226b8bced7f0f3276be721b5d2a3fefd0a759440f68",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "path": "website/docs/user-guide/features/memory-providers.md",
+    "bytes": 47604,
+    "url": "https://github.com/NousResearch/hermes-agent/blob/54b07ec7f16ec077b86847095f84adf1924eca92/website/docs/user-guide/features/memory-providers.md",
+    "sha256": "07090e2c3427ccc4598cd0cf1d9132833d63d86bbfc0d2409673ef3b65702568",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "NousResearch/hermes-agent-self-evolution",
+    "sha": "0a929e3aa20e15cf04dc7c28492a7d41a5139125",
+    "path": "evolution/skills/evolve_skill.py",
+    "bytes": 13904,
+    "url": "https://github.com/NousResearch/hermes-agent-self-evolution/blob/0a929e3aa20e15cf04dc7c28492a7d41a5139125/evolution/skills/evolve_skill.py",
+    "sha256": "54067fff8d78592918593067f15b5c490b1acef8c036a3ab482c9d190b83dc79",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "langfuse/langfuse",
+    "sha": "5d866bbe7a65522d209124348e53f9efd73dcc7c",
+    "path": "LICENSE",
+    "bytes": 1612,
+    "url": "https://github.com/langfuse/langfuse/blob/5d866bbe7a65522d209124348e53f9efd73dcc7c/LICENSE",
+    "sha256": "fd09d42b5b16606ad2042cc1edf3a82da1c47743709f170c959c74758af229d6",
+    "level": "interface_checked"
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "sha": "f516668f96f9891510640b62a0216adb229bbcb9",
+    "path": "LICENSE",
+    "bytes": 1419,
+    "url": "https://github.com/BerriAI/litellm/blob/f516668f96f9891510640b62a0216adb229bbcb9/LICENSE",
+    "sha256": "b170d6bf8e8835dd357e011681db028f4d51e2fb0ea892058f56e01fb39b8273",
+    "level": "interface_checked"
+  }
+]

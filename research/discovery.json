@@ -1,0 +1,78 @@
+{
+  "method": "GitHub repository search sorted by stars for discovery only, followed by primary documentation review",
+  "queries": [
+    {
+      "query": "agent memory evaluation stars:>1000",
+      "total": 3,
+      "results": [
+        {
+          "repo": "trpc-group/trpc-agent-go",
+          "description": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability."
+        },
+        {
+          "repo": "VoltAgent/awesome-ai-agent-papers",
+          "description": "A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems."
+        },
+        {
+          "repo": "chunxiaoxx/nautilus-compass",
+          "description": "Open memory & reliability layer for AI agents + independent judging/verification (NACRE judge, caliber-bench meta-benchmark, preregistered criteria) — by Nautilus Platform"
+        }
+      ]
+    },
+    {
+      "query": "agent skills context engineering stars:>1000",
+      "total": 4,
+      "results": [
+        {
+          "repo": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management."
+        },
+        {
+          "repo": "rohitg00/pro-workflow",
+          "description": "Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills."
+        },
+        {
+          "repo": "NeoLabHQ/context-engineering-kit",
+          "description": "Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative."
+        },
+        {
+          "repo": "tigicion/dao-code",
+          "description": "Open-source TypeScript terminal coding agent for DeepSeek-V4 — builds on DeepSeek's strong price-performance and ultra-cheap cache pricing, engineering byte-stable prefixes and cache-reusing forks so cross-session memory and a continuous self-correction layer add almost no token cost; 1M context, Sk"
+        }
+      ]
+    },
+    {
+      "query": "Hermes agent optimization",
+      "total": 136,
+      "results": [
+        {
+          "repo": "NousResearch/hermes-agent-self-evolution",
+          "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA"
+        },
+        {
+          "repo": "rlaope/oh-my-hermes",
+          "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages"
+        },
+        {
+          "repo": "OnlyTerp/hermes-optimization-guide",
+          "description": "Hermes Agent setup, migration, LightRAG, Telegram, and skill creation guide"
+        },
+        {
+          "repo": "magnus919/hermes-profiles",
+          "description": "Curated Hermes Agent profiles for specialist swarms — opinionated, Hermes-optimized, artifact-pyramid native"
+        },
+        {
+          "repo": "magnus919/hermes-SkillOpt",
+          "description": "Controlled skill optimization for Hermes Agent — derives from Microsoft Research's SkillOpt: 52/52 settings improved through text-space optimization with validation gates."
+        }
+      ]
+    }
+  ],
+  "selected_additional": [
+    "NousResearch/hermes-agent-self-evolution",
+    "rlaope/oh-my-hermes",
+    "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "plastic-labs/honcho"
+  ],
+  "selection_reason": "Hermes-specific integrations and missing context/memory/evaluation dimensions; no claimed exhaustive coverage"
+}

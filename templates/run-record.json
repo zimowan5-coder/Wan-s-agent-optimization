@@ -1,0 +1,35 @@
+{
+  "schema_version": "research-run-v1",
+  "status": "template-not-result",
+  "experiment_id": null,
+  "run_id": null,
+  "case_id": null,
+  "variant": null,
+  "split": null,
+  "hermes_commit": null,
+  "profile_id": null,
+  "model": null,
+  "background_model": null,
+  "success": null,
+  "critical_failures": [],
+  "ttft_ms": null,
+  "elapsed_ms": null,
+  "cost": {
+    "currency": "USD",
+    "total": null,
+    "main": null,
+    "background_review": null,
+    "compression": null,
+    "retrieval": null,
+    "tools": null,
+    "unknown_components": []
+  },
+  "usage": {
+    "input_tokens": null,
+    "output_tokens": null,
+    "cache_read_tokens": null,
+    "cache_write_tokens": null
+  },
+  "artifact_refs": [],
+  "judge_notes": null
+}

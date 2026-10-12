@@ -1,0 +1,24 @@
+{
+  "status": "proposed",
+  "format": "research-policy-v1-not-hermes-config",
+  "automatic_local_connection": false,
+  "default_strategy": "native-first-single-change",
+  "transient_read_retry_limit": 2,
+  "context_budget": "measure-components-before-setting-limits",
+  "external_memory_providers_max": 1,
+  "promotion_requires": [
+    "scope-check",
+    "source-evidence",
+    "conflict-check",
+    "regression-evaluation"
+  ],
+  "experiment_defaults": {
+    "runs_per_case_per_variant": 3,
+    "noninferiority_margin_pp": 3,
+    "cost_reduction_target_pct": 15,
+    "p50_latency_reduction_target_pct": 15,
+    "unnecessary_clarification_reduction_target_pct": 30,
+    "critical_failures_allowed": 0
+  },
+  "notes": "Thresholds are hypotheses, not measured improvements. Map native config keys only after local version inspection."
+}

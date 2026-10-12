@@ -1,0 +1,431 @@
+[
+  {
+    "repo": "NousResearch/hermes-agent",
+    "sha": "54b07ec7f16ec077b86847095f84adf1924eca92",
+    "branch": "main",
+    "commit_date": "2026-10-12T17:41:29Z",
+    "archived": false,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "description": "The agent that grows with you",
+    "readme": "README.md",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "collected_at": "2026-10-12T18:00:20Z",
+    "readme_bytes": 16924,
+    "requested_names": [
+      "NousResearch/hermes-agent"
+    ]
+  },
+  {
+    "repo": "obra/superpowers",
+    "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+    "branch": "main",
+    "commit_date": "2026-10-10T00:28:04Z",
+    "archived": false,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "description": "An agentic skills framework & software development methodology that works.",
+    "readme": "README.md",
+    "url": "https://github.com/obra/superpowers",
+    "collected_at": "2026-10-12T18:00:19Z",
+    "readme_bytes": 14589,
+    "requested_names": [
+      "obra/superpowers"
+    ]
+  },
+  {
+    "repo": "mattpocock/skills",
+    "sha": "49dd158d1076134a641b33efb035946536778336",
+    "branch": "main",
+    "commit_date": "2026-10-09T10:56:49Z",
+    "archived": false,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "readme": "README.md",
+    "url": "https://github.com/mattpocock/skills",
+    "collected_at": "2026-10-12T18:00:19Z",
+    "readme_bytes": 16461,
+    "requested_names": [
+      "mattpocock/skills"
+    ]
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "sha": "b92f181b3b748d1abbc2afd94af6aa7d8c8fca29",
+    "branch": "main",
+    "commit_date": "2026-10-12T02:02:10Z",
+    "archived": false,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "readme": "README.md",
+    "url": "https://github.com/affaan-m/ECC",
+    "collected_at": "2026-10-12T18:00:19Z",
+    "readme_bytes": 115595,
+    "requested_names": [
+      "affaan-m/ECC",
+      "affaan-m/everything-claude-code"
+    ]
+  },
+  {
+    "repo": "anthropics/skills",
+    "sha": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "branch": "main",
+    "commit_date": "2026-10-09T18:45:49Z",
+    "archived": false,
+    "license": null,
+    "description": "Public repository for Agent Skills",
+    "readme": "README.md",
+    "url": "https://github.com/anthropics/skills",
+    "collected_at": "2026-10-12T18:00:19Z",
+    "readme_bytes": 5552,
+    "requested_names": [
+      "anthropics/skills"
+    ]
+  },
+  {
+    "repo": "agentskills/agentskills",
+    "sha": "69ef37e9424c0a7ea9dd2293b559e43ec8176379",
+    "branch": "main",
+    "commit_date": "2026-08-09T20:36:04Z",
+    "archived": false,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "description": "Specification and documentation for Agent Skills",
+    "readme": "README.md",
+    "url": "https://github.com/agentskills/agentskills",
+    "collected_at": "2026-10-12T18:00:20Z",
+    "readme_bytes": 3361,
+    "requested_names": [
+      "agentskills/agentskills"
+    ]
+  },
+  {
+    "repo": "langchain-ai/langgraph",
+    "sha": "10f1fabb3b2f2d550b8133fba1217391c27694c4",
+    "branch": "main",
+    "commit_date": "2026-10-12T15:29:56Z",
+    "archived": false,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "description": "Build resilient agents.",
+    "readme": "README.md",
+    "url": "https://github.com/langchain-ai/langgraph",
+    "collected_at": "2026-10-12T18:00:22Z",
+    "readme_bytes": 6395,
+    "requested_names": [
+      "langchain-ai/langgraph"
+    ]
+  },
+  {
+    "repo": "mem0ai/mem0",
+    "sha": "d26ba5e4518cef7fff3c66d4f715b21adf9feabe",
+    "branch": "main",
+    "commit_date": "2026-10-12T16:28:27Z",
+    "archived": false,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+    "readme": "README.md",
+    "url": "https://github.com/mem0ai/mem0",
+    "collected_at": "2026-10-12T18:00:21Z",
+    "readme_bytes": 11914,
+    "requested_names": [
+      "mem0ai/mem0"
+    ]
+  },
+  {
+    "repo": "letta-ai/letta",
+    "sha": "5bcdd177d70fa2b31a754cfcd801e77b2e1ab16a",
+    "branch": "main",
+    "commit_date": "2026-09-10T17:59:06Z",
+    "archived": false,
+    "license": {
+      "key": "apache-2.0",
+      "name": "Apache License 2.0",
+      "spdx_id": "Apache-2.0",
+      "url": "https://api.github.com/licenses/apache-2.0",
+      "node_id": "MDc6TGljZW5zZTI="
+    },
+    "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+    "readme": "README.md",
+    "url": "https://github.com/letta-ai/letta",
+    "collected_at": "2026-10-12T18:00:21Z",
+    "readme_bytes": 1574,
+    "requested_names": [
+      "letta-ai/letta"
+    ]
+  },
+  {
+    "repo": "langfuse/langfuse",
+    "sha": "5d866bbe7a65522d209124348e53f9efd73dcc7c",
+    "branch": "main",
+    "commit_date": "2026-10-12T17:15:35Z",
+    "archived": false,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA="
+    },
+    "description": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+    "readme": "README.md",
+    "url": "https://github.com/langfuse/langfuse",
+    "collected_at": "2026-10-12T18:00:22Z",
+    "readme_bytes": 53476,
+    "requested_names": [
+      "langfuse/langfuse"
+    ]
+  },
+  {
+    "repo": "promptfoo/promptfoo",
+    "sha": "129cdb7ca768de316f0cb86cebc60b0db457b132",
+    "branch": "main",
+    "commit_date": "2026-10-12T16:17:41Z",
+    "archived": false,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+    "readme": "README.md",
+    "url": "https://github.com/promptfoo/promptfoo",
+    "collected_at": "2026-10-12T18:00:22Z",
+    "readme_bytes": 4596,
+    "requested_names": [
+      "promptfoo/promptfoo"
+    ]
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "sha": "f516668f96f9891510640b62a0216adb229bbcb9",
+    "branch": "main",
+    "commit_date": "2026-10-12T17:58:25Z",
+    "archived": false,
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA="
+    },
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+    "readme": "README.md",
+    "url": "https://github.com/BerriAI/litellm",
+    "collected_at": "2026-10-12T18:00:22Z",
+    "readme_bytes": 38436,
+    "requested_names": [
+      "BerriAI/litellm"
+    ]
+  },
+  {
+    "repo": "modelcontextprotocol/python-sdk",
+    "sha": "c9356a2a8fb805ac2202e44c05371cf005edc923",
+    "branch": "main",
+    "commit_date": "2026-10-12T12:37:35Z",
+    "archived": false,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "description": "The official Python SDK for Model Context Protocol servers and clients",
+    "readme": "README.md",
+    "url": "https://github.com/modelcontextprotocol/python-sdk",
+    "collected_at": "2026-10-12T18:00:22Z",
+    "readme_bytes": 4561,
+    "requested_names": [
+      "modelcontextprotocol/python-sdk"
+    ]
+  },
+  {
+    "repo": "browser-use/browser-use",
+    "sha": "c75e8476e26d18b7617643bc2ae082fae8eae431",
+    "branch": "main",
+    "commit_date": "2026-10-07T16:39:05Z",
+    "archived": false,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "description": "Agents that use the browser.",
+    "readme": "README.md",
+    "url": "https://github.com/browser-use/browser-use",
+    "collected_at": "2026-10-12T18:00:22Z",
+    "readme_bytes": 16597,
+    "requested_names": [
+      "browser-use/browser-use"
+    ]
+  },
+  {
+    "repo": "All-Hands-AI/OpenHands",
+    "sha": "02e02ae0c92ebb033afcf2fb399bd3683df82ca8",
+    "branch": "main",
+    "commit_date": "2026-10-12T17:44:03Z",
+    "archived": false,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "description": "🙌 OpenHands: AI-Driven Development",
+    "readme": "README.md",
+    "url": "https://github.com/OpenHands/OpenHands",
+    "collected_at": "2026-10-12T18:00:24Z",
+    "readme_bytes": 12877,
+    "requested_names": [
+      "All-Hands-AI/OpenHands"
+    ]
+  },
+  {
+    "repo": "openai/openai-agents-python",
+    "sha": "125efa029b4bfd84238bd2c4fd69c3406f802663",
+    "branch": "main",
+    "commit_date": "2026-10-08T19:29:11Z",
+    "archived": false,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "description": "A lightweight, powerful framework for multi-agent workflows",
+    "readme": "README.md",
+    "url": "https://github.com/openai/openai-agents-python",
+    "collected_at": "2026-10-12T18:00:23Z",
+    "readme_bytes": 9009,
+    "requested_names": [
+      "openai/openai-agents-python"
+    ]
+  },
+  {
+    "repo": "NousResearch/hermes-agent-self-evolution",
+    "sha": "0a929e3aa20e15cf04dc7c28492a7d41a5139125",
+    "branch": "main",
+    "commit_date": "2026-06-17T11:53:04Z",
+    "archived": false,
+    "license": null,
+    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA",
+    "readme": "README.md",
+    "url": "https://github.com/NousResearch/hermes-agent-self-evolution",
+    "collected_at": "2026-10-12T18:01:26Z",
+    "readme_bytes": 3561,
+    "requested_names": [
+      "NousResearch/hermes-agent-self-evolution"
+    ]
+  },
+  {
+    "repo": "rlaope/oh-my-hermes",
+    "sha": "65c31d6a240a443750e35cafabf6f55aedda5aa2",
+    "branch": "main",
+    "commit_date": "2026-10-12T13:46:50Z",
+    "archived": false,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+    "readme": "README.md",
+    "url": "https://github.com/rlaope/oh-my-hermes",
+    "collected_at": "2026-10-12T18:01:26Z",
+    "readme_bytes": 36012,
+    "requested_names": [
+      "rlaope/oh-my-hermes"
+    ]
+  },
+  {
+    "repo": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "sha": "9ff0c99108b36d3b886defd825d8ac1f47dba374",
+    "branch": "main",
+    "commit_date": "2026-10-12T02:06:39Z",
+    "archived": false,
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+    "readme": "README.md",
+    "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "collected_at": "2026-10-12T18:01:26Z",
+    "readme_bytes": 24668,
+    "requested_names": [
+      "muratcankoylan/Agent-Skills-for-Context-Engineering"
+    ]
+  },
+  {
+    "repo": "plastic-labs/honcho",
+    "sha": "3922af856d78ec41133916deec4d821fa9c5a92e",
+    "branch": "main",
+    "commit_date": "2026-10-09T18:02:06Z",
+    "archived": false,
+    "license": {
+      "key": "agpl-3.0",
+      "name": "GNU Affero General Public License v3.0",
+      "spdx_id": "AGPL-3.0",
+      "url": "https://api.github.com/licenses/agpl-3.0",
+      "node_id": "MDc6TGljZW5zZTE="
+    },
+    "description": " Memory library for building stateful agents",
+    "readme": "README.md",
+    "url": "https://github.com/plastic-labs/honcho",
+    "collected_at": "2026-10-12T18:01:26Z",
+    "readme_bytes": 34738,
+    "requested_names": [
+      "plastic-labs/honcho"
+    ]
+  }
+]
